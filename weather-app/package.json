@@ -39,5 +39,24 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "The Weather App is a user-friendly application designed to provide real-time weather information. Built using React, the app offers a clean and intuitive interface for users to quickly access current weather conditions, forecasts, and other meteorological data for their chosen locations.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balakrishnasajja/react-weather-app.git"
+  },
+  "keywords": [
+    "react",
+    "html",
+    "css",
+    "API's"
+  ],
+  "author": "Balakrishana S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balakrishnasajja/react-weather-app/issues"
+  },
+  "homepage": "https://github.com/balakrishnasajja/react-weather-app#readme"
 }
